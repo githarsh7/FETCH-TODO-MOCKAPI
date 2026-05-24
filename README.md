@@ -101,7 +101,7 @@ https://your-project-id.mockapi.io/todos
 ## Axios API Example
 
 ```javascript
-const API_URL = "https://your-project-id.mockapi.io/todos";
+const API_URL = "https://6a12b0af78d0434e0d5d5c08.mockapi.io/todos";
 ```
 
 ---
